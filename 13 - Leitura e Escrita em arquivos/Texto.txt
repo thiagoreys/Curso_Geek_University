@@ -1,0 +1,5 @@
+Tudo o que for digitado aqui será escrito no arquivo.
+Tudo o que for digitado aqui será escrito no arquivo.
+Tudo o que for digitado aqui será escrito no arquivo.
+Tudo o que for digitado aqui será adicionado no final do arquivo.
+Finalização do arquivo.

@@ -1,0 +1,6 @@
+Maria das Graças;42
+João Carlos;33
+Pedro Emanuel;21
+Ana Beatriz;19
+José Saramargo;55
+Cristina Freitas;25
