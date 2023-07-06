@@ -1,1 +1,2 @@
-Curso da linguagem python do básico ao avançado - Geek University (Udemy).
+Curso de python do básico ao avançado: Estruturas aninhadas, Expressões Lambdas, Iteradores, Geradores, Orientação a Objetos.
+  - Geek University (Udemy).
