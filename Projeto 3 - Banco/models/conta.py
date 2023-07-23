@@ -10,11 +10,11 @@ class Conta:
         self.__saldo = 0.0
         self.__limite = 100
         Conta.c += 1
-    
+
     @property
     def numero(self) -> int:
         return self.__numero
-    
+
     @property
     def cliente(self) -> object:
         return self.__cliente
@@ -22,7 +22,7 @@ class Conta:
     @property
     def saldo(self) -> float:
         return self.__saldo
-    
+
     @saldo.setter
     def saldo(self, valor: float) -> None:
         self.__saldo = valor
@@ -30,12 +30,12 @@ class Conta:
     @property
     def limite(self) -> float:
         return self.__limite
-    
+  
     @limite.setter
     def limite(self, valor: float) -> None:
         self.__limite = valor
 
-    def __str__(self) -> None:
+    def __str__(self) -> str:
         return f'Conta: {self.numero} \nCliente: {self.cliente.nome} \nSaldo: {float_para_RS(self.saldo)} \nLimite: {float_para_RS(self.limite)}'
 
 
@@ -64,7 +64,7 @@ class Conta:
                     print('Você não possui saldo e nem limite suficiente para o valor solicitado.')
         else:
             print('Valor inválido.')
- 
+
 
     def transferir(self, destino: object, valor: float) -> None:
         if valor > 0:
