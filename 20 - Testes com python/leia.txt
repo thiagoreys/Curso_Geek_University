@@ -1,2 +1,0 @@
-Esse é um tópico opcional em programação, uma forma de realizar testes dentro do próprio código.
-Como não gosto dessa forma de desenvolver, preferir apenas assistir as aulas para entender como funciona.
